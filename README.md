@@ -1,20 +1,19 @@
-# Hi there, I'm Madhavi Palla! 👋
 
-## About Me
-I'm a passionate software developer and a master's student specializing in natural language processing, machine learning, and computer vision. I worked on fine-tuning large language models and developing AI-powered solutions. I am deeply interested in creating scalable, impactful applications in healthcare and technology.
+### Hi, I'm Madhavi 👋  
 
-## Contact Me
-- **Email:** [madhavi.palla@example.com](mailto:madhavi.palla09@example.com)
-- **LinkedIn:** [linkedin.com/in/madhavipalla](https://linkedin.com/in/madhavipalla)
-- **Twitter:** [@MadhaviPalla](https://twitter.com/MadhaviPalla)
+🔹 **Master’s Student in Computer Science & Information Technology** @ University of Aizu, Japan  
+🔹 Passionate about AI, Machine Learning, and NLP  
 
-Feel free to reach out if you have any questions or just want to connect!
+#### 🔧 Tech Stack  
+💻 Python | PyTorch | TensorFlow | OpenCV | LangChain | FAISS | Streamlit  
+🧠 LLMs | Transformer Optimization | Knowledge Graphs | Computer Vision  
+📊 Data Analysis | NLP | Quantization | Distillation  
 
----
+📌 **Highlighted Projects**  
+🚀 [Generative AI Projects](https://github.com/MadhaviPalla/Generative_AI_Projects) – LLM fine-tuning, synthetic dataset generation  
+🩺 [Brain Tumor Segmentation](#) – UNet-based tumor segmentation achieving **85% IoU**  
 
-⭐️ From [MadhaviPalla](https://github.com/MadhaviPalla)
 
-<!---
-MadhaviPalla/MadhaviPalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)][(https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/palla-madhavi-232b24251))  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MadhaviPalla)  
