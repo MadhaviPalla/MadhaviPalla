@@ -15,5 +15,5 @@
 
 
 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)][(https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/palla-madhavi-232b24251))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/palla-madhavi-232b24251))  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MadhaviPalla)  
